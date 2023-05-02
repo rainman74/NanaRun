@@ -67,8 +67,7 @@ Notes:
 
 Example:
 
-  If you want to run "whoami /all" as elevated in the non-elevated Console, and
-  you don't want to show version information of MinSudo.
+  If you want to run "whoami /all" as elevated in the non-elevated Console.
   > MinSudo whoami /all
 
 ```

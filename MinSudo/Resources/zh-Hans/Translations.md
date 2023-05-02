@@ -44,7 +44,6 @@
 
 选项:
 
-  --NoLogo 隐藏版权信息。
   --Verbose 显示详细信息。
   --WorkDir=[ 路径 ] 设置工作目录。
   --System 使用 System 而不是管理员执行。
@@ -66,8 +65,7 @@
 
 用例:
 
-  如果你想在未提权的控制台下运行提权的 "whoami /all"，并且你不希望 MinSudo 显示
-  版本信息。
-  > MinSudo --NoLogo whoami /all
+  如果你想在未提权的控制台下运行提权的 "whoami /all"。
+  > MinSudo whoami /all
 
 ```
