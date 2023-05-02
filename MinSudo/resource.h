@@ -1,10 +1,9 @@
 ﻿//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ 生成的包含文件。
-// 供 MinSudo.rc 使用
+// Von Microsoft Visual C++ generierte Includedatei.
+// Verwendet durch MinSudo.rc
 //
 #define IDR_TRANSLATIONS                101
 #define IDR_TRANSLATIONS1               102
-#define IDI_MINSUDO                     103
 
 // Next default values for new objects
 // 

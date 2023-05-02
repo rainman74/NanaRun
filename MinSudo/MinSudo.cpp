@@ -1394,11 +1394,11 @@ int main()
 
     if (!NoLogo)
     {
-        ::WriteToConsole(
-            L"MinSudo " MILE_PROJECT_VERSION_STRING L" (Build "
-            MILE_PROJECT_MACRO_TO_STRING(MILE_PROJECT_VERSION_BUILD) L")" L"\r\n"
-            L"(c) M2-Team and Contributors. All rights reserved.\r\n"
-            L"\r\n");
+//        ::WriteToConsole(
+//            L"MinSudo " MILE_PROJECT_VERSION_STRING L" (Build "
+//            MILE_PROJECT_MACRO_TO_STRING(MILE_PROJECT_VERSION_BUILD) L")" L"\r\n"
+//            L"(c) M2-Team and Contributors. All rights reserved.\r\n"
+//            L"\r\n");
     }
 
     if (ShowHelp)

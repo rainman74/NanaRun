@@ -45,7 +45,6 @@ Format: MinSudo [ Options ] Command
 
 Options:
 
-  --NoLogo Suppress copyright message.
   --Verbose Show detailed information.
   --WorkDir=[ Path ] Set working directory.
   --System Run as System instead of Administrator.
@@ -70,6 +69,6 @@ Example:
 
   If you want to run "whoami /all" as elevated in the non-elevated Console, and
   you don't want to show version information of MinSudo.
-  > MinSudo --NoLogo whoami /all
+  > MinSudo whoami /all
 
 ```
